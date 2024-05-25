@@ -1,4 +1,4 @@
-We can create, Retrieve, Update, Delete tasks using this todo list app
+We can create, Retrieve, Update, Delete tasks using this todo list app\n
 Commands for running frontend server:
 cd frontend
 npm run dev
