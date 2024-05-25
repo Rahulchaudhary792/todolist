@@ -1,0 +1,113 @@
+.app-title {
+  text-align: center;
+  font-family: Arial;
+}
+.add-button {
+  text-align: center;
+  font-family: Arial;
+  font-size: 17px;
+  color: white;
+  background-color: green;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+.add-button-div {
+  text-align: center;
+}
+.modal-title {
+  text-align: center;
+  font-weight: bold;
+  font-family: Arial;
+  margin-top: 30px;
+  color: white;
+}
+.close-button {
+  position: absolute;
+  right: 30px;
+  top: 30px;
+  color: white;
+  font-family: Arial;
+  font-size: 17px;
+  background-color: red;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+.input-heading {
+  font-family: Arial;
+  margin-top: 20px;
+  color: white;
+}
+.input-box {
+  width: 100%;
+  padding: 5px 0px;
+  border-radius: 5px;
+  border: 2px solid lightgray;
+}
+.input-textarea {
+  width: 100%;
+  border-radius: 5px;
+  border: 2px solid lightgray;
+}
+.task-submit-button-div {
+  text-align: center;
+  margin-top: 30px;
+}
+.task-submit-button {
+  text-align: center;
+  font-family: Arial;
+  font-size: 17px;
+  color: white;
+  background-color: blue;
+  border: none;
+  padding: 5px 15px;
+  border-radius: 5px;
+}
+.task-items-div {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  padding: 0px 30px;
+  border: 3px solid lightgray;
+  background-color: lightgray;
+}
+.task-headings {
+  font-family: sans-serif;
+  color: white;
+}
+.edit-button {
+  text-align: center;
+  font-family: Arial;
+  font-size: 17px;
+  color: white;
+  background-color: blue;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+.delete-button {
+  text-align: center;
+  font-family: Arial;
+  font-size: 17px;
+  color: white;
+  background-color: red;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+.task-items-headings-div {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  padding: 0px 30px;
+  border: 3px solid lightgray;
+  background-color: black;
+}
+.task-details {
+  font-family: sans-serif;
+}
